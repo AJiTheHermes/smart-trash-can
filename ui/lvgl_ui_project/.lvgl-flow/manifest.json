@@ -1,0 +1,662 @@
+{
+  "version": 1,
+  "exportedAt": "2026-11-15T16:02:50.002Z",
+  "files": {
+    ".lvgl-flow/components/ui_topbar.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/ui_button_primary.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/comp_cat_0_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/comp_cat_1_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/comp_cat_2_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/comp_cat_3_48.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/ui_button_secondary.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/ui_streak_chip.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_happy.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_idle.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_listen.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_talk.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_sad.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/components/mascot_puzzled.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/ui_topbar/ui_topbar.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/ui_button_primary/ui_button_primary.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/comp_cat_0_48/comp_cat_0_48.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/comp_cat_1_48/comp_cat_1_48.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/comp_cat_2_48/comp_cat_2_48.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/comp_cat_3_48/comp_cat_3_48.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/ui_button_secondary/ui_button_secondary.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/ui_streak_chip/ui_streak_chip.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_happy/mascot_happy.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_idle/mascot_idle.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_listen/mascot_listen.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_talk/mascot_talk.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_sad/mascot_sad.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/mascot_puzzled/mascot_puzzled.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/dev_00_boot_selftest.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_03_intro.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_04_guide.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_05_round_ready.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_06_capturing.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_07_no_object.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_08a_await_bin.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_09_verdict.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_10_learning.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_11_summary.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_12_confirm_quit.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/dev_01_ai_unsure.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/dev_02_error.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/state_08b_lid_closed.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/home_01_main.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_01_ready.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_02_listening.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_03_thinking.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_04_answering.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_05_offline.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_06_asr_retry.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    ".lvgl-flow/screens/chat2_07_countdown.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/dev_00_boot_selftest.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_03_intro.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_04_guide.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_05_round_ready.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_06_capturing.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_07_no_object.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_08a_await_bin.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_09_verdict.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_10_learning.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_11_summary.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_12_confirm_quit.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/dev_01_ai_unsure.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/dev_02_error.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/state_08b_lid_closed.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/home_01_main.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_01_ready.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_02_listening.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_03_thinking.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_04_answering.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_05_offline.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_06_asr_retry.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "screens/chat2_07_countdown.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/derived/tile/tile.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/container/container.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/image/image.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/panel/panel.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/card/card.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/row/row.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/column/column.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "components/base/label/label.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "globals.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/cat_glyph_19370.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/cat_glyph_19372.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/cat_glyph_19374.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/cat_glyph_19376.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/icon_flame.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_81.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_82.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_83.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_84.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_85.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_86.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_72.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_73.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_74.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_75.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_76.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_77.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_111.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_112.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_113.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_114.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_115.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_116.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_117.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_118.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_122.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_123.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_124.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_125.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_126.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_127.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_128.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_129.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_100.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_101.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_102.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_103.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_104.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_105.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_106.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_107.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_90.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_91.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_92.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_93.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_94.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_95.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_230_96.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_172_272.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_172_273.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_278.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_279.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_280.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_281.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_282.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_284.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_285.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_286.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_287.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_288.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_290.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_291.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_292.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_293.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_294.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_173_273.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_173_274.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_296.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_297.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_298.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_299.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_300.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_302.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_303.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_304.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_305.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_306.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_308.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_309.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_310.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_311.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/vec_183_312.png": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    },
+    "images/index_vectors.json": {
+      "owner": "tool",
+      "exportedAt": "2026-11-15T16:02:50.002Z"
+    }
+  }
+}

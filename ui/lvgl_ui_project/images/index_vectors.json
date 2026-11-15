@@ -1,0 +1,758 @@
+[
+  {
+    "nodeId": "193:70",
+    "nodeName": "cat glyph",
+    "name": "image_cat_glyph_19370",
+    "svgPath": "vectors/193_70.svg",
+    "width": 36,
+    "height": 38,
+    "aliasNodeIds": [
+      "I110:760;193:70"
+    ],
+    "pngPath": "images/cat_glyph_19370.png"
+  },
+  {
+    "nodeId": "193:72",
+    "nodeName": "cat glyph",
+    "name": "image_cat_glyph_19372",
+    "svgPath": "vectors/193_72.svg",
+    "width": 31,
+    "height": 38,
+    "aliasNodeIds": [
+      "I110:763;193:72",
+      "I110:810;193:72"
+    ],
+    "pngPath": "images/cat_glyph_19372.png"
+  },
+  {
+    "nodeId": "193:74",
+    "nodeName": "cat glyph",
+    "name": "image_cat_glyph_19374",
+    "svgPath": "vectors/193_74.svg",
+    "width": 40,
+    "height": 36,
+    "aliasNodeIds": [
+      "I110:766;193:74",
+      "I110:817;193:74"
+    ],
+    "pngPath": "images/cat_glyph_19374.png"
+  },
+  {
+    "nodeId": "193:76",
+    "nodeName": "cat glyph",
+    "name": "image_cat_glyph_19376",
+    "svgPath": "vectors/193_76.svg",
+    "width": 32,
+    "height": 36,
+    "aliasNodeIds": [
+      "I110:769;193:76",
+      "I110:823;193:76"
+    ],
+    "pngPath": "images/cat_glyph_19376.png"
+  },
+  {
+    "nodeId": "56:131",
+    "nodeName": "icon/flame",
+    "name": "image_icon_flame",
+    "svgPath": "vectors/56_131.svg",
+    "width": 21,
+    "height": 28,
+    "aliasNodeIds": [
+      "I110:870;56:131"
+    ],
+    "pngPath": "images/icon_flame.png"
+  },
+  {
+    "nodeId": "230:81",
+    "nodeName": "Vector",
+    "name": "image_vec_230_81",
+    "svgPath": "vectors/230_81.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_81.png"
+  },
+  {
+    "nodeId": "230:82",
+    "nodeName": "Vector",
+    "name": "image_vec_230_82",
+    "svgPath": "vectors/230_82.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_82.png"
+  },
+  {
+    "nodeId": "230:83",
+    "nodeName": "Vector",
+    "name": "image_vec_230_83",
+    "svgPath": "vectors/230_83.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_83.png"
+  },
+  {
+    "nodeId": "230:84",
+    "nodeName": "Vector",
+    "name": "image_vec_230_84",
+    "svgPath": "vectors/230_84.svg",
+    "width": 9,
+    "height": 2,
+    "pngPath": "images/vec_230_84.png"
+  },
+  {
+    "nodeId": "230:85",
+    "nodeName": "Vector",
+    "name": "image_vec_230_85",
+    "svgPath": "vectors/230_85.svg",
+    "width": 9,
+    "height": 2,
+    "pngPath": "images/vec_230_85.png"
+  },
+  {
+    "nodeId": "230:86",
+    "nodeName": "Vector",
+    "name": "image_vec_230_86",
+    "svgPath": "vectors/230_86.svg",
+    "width": 27,
+    "height": 14,
+    "pngPath": "images/vec_230_86.png"
+  },
+  {
+    "nodeId": "230:72",
+    "nodeName": "Vector",
+    "name": "image_vec_230_72",
+    "svgPath": "vectors/230_72.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_72.png"
+  },
+  {
+    "nodeId": "230:73",
+    "nodeName": "Vector",
+    "name": "image_vec_230_73",
+    "svgPath": "vectors/230_73.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_73.png"
+  },
+  {
+    "nodeId": "230:74",
+    "nodeName": "Vector",
+    "name": "image_vec_230_74",
+    "svgPath": "vectors/230_74.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_74.png"
+  },
+  {
+    "nodeId": "230:75",
+    "nodeName": "Vector",
+    "name": "image_vec_230_75",
+    "svgPath": "vectors/230_75.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_75.png"
+  },
+  {
+    "nodeId": "230:76",
+    "nodeName": "Vector",
+    "name": "image_vec_230_76",
+    "svgPath": "vectors/230_76.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_76.png"
+  },
+  {
+    "nodeId": "230:77",
+    "nodeName": "Vector",
+    "name": "image_vec_230_77",
+    "svgPath": "vectors/230_77.svg",
+    "width": 17,
+    "height": 4,
+    "pngPath": "images/vec_230_77.png"
+  },
+  {
+    "nodeId": "230:111",
+    "nodeName": "Vector",
+    "name": "image_vec_230_111",
+    "svgPath": "vectors/230_111.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_111.png"
+  },
+  {
+    "nodeId": "230:112",
+    "nodeName": "Vector",
+    "name": "image_vec_230_112",
+    "svgPath": "vectors/230_112.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_112.png"
+  },
+  {
+    "nodeId": "230:113",
+    "nodeName": "Vector",
+    "name": "image_vec_230_113",
+    "svgPath": "vectors/230_113.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_113.png"
+  },
+  {
+    "nodeId": "230:114",
+    "nodeName": "Vector",
+    "name": "image_vec_230_114",
+    "svgPath": "vectors/230_114.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_114.png"
+  },
+  {
+    "nodeId": "230:115",
+    "nodeName": "Vector",
+    "name": "image_vec_230_115",
+    "svgPath": "vectors/230_115.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_115.png"
+  },
+  {
+    "nodeId": "230:116",
+    "nodeName": "Vector",
+    "name": "image_vec_230_116",
+    "svgPath": "vectors/230_116.svg",
+    "width": 13,
+    "height": 0,
+    "pngPath": "images/vec_230_116.png"
+  },
+  {
+    "nodeId": "230:117",
+    "nodeName": "Vector",
+    "name": "image_vec_230_117",
+    "svgPath": "vectors/230_117.svg",
+    "width": 2,
+    "height": 14,
+    "pngPath": "images/vec_230_117.png"
+  },
+  {
+    "nodeId": "230:118",
+    "nodeName": "Vector",
+    "name": "image_vec_230_118",
+    "svgPath": "vectors/230_118.svg",
+    "width": 3,
+    "height": 24,
+    "pngPath": "images/vec_230_118.png"
+  },
+  {
+    "nodeId": "230:122",
+    "nodeName": "Vector",
+    "name": "image_vec_230_122",
+    "svgPath": "vectors/230_122.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_122.png"
+  },
+  {
+    "nodeId": "230:123",
+    "nodeName": "Vector",
+    "name": "image_vec_230_123",
+    "svgPath": "vectors/230_123.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_123.png"
+  },
+  {
+    "nodeId": "230:124",
+    "nodeName": "Vector",
+    "name": "image_vec_230_124",
+    "svgPath": "vectors/230_124.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_124.png"
+  },
+  {
+    "nodeId": "230:125",
+    "nodeName": "Vector",
+    "name": "image_vec_230_125",
+    "svgPath": "vectors/230_125.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_125.png"
+  },
+  {
+    "nodeId": "230:126",
+    "nodeName": "Vector",
+    "name": "image_vec_230_126",
+    "svgPath": "vectors/230_126.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_126.png"
+  },
+  {
+    "nodeId": "230:127",
+    "nodeName": "Vector",
+    "name": "image_vec_230_127",
+    "svgPath": "vectors/230_127.svg",
+    "width": 8,
+    "height": 10,
+    "pngPath": "images/vec_230_127.png"
+  },
+  {
+    "nodeId": "230:128",
+    "nodeName": "Vector",
+    "name": "image_vec_230_128",
+    "svgPath": "vectors/230_128.svg",
+    "width": 2,
+    "height": 14,
+    "pngPath": "images/vec_230_128.png"
+  },
+  {
+    "nodeId": "230:129",
+    "nodeName": "Vector",
+    "name": "image_vec_230_129",
+    "svgPath": "vectors/230_129.svg",
+    "width": 3,
+    "height": 24,
+    "pngPath": "images/vec_230_129.png"
+  },
+  {
+    "nodeId": "230:100",
+    "nodeName": "Vector",
+    "name": "image_vec_230_100",
+    "svgPath": "vectors/230_100.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_100.png"
+  },
+  {
+    "nodeId": "230:101",
+    "nodeName": "Vector",
+    "name": "image_vec_230_101",
+    "svgPath": "vectors/230_101.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_101.png"
+  },
+  {
+    "nodeId": "230:102",
+    "nodeName": "Vector",
+    "name": "image_vec_230_102",
+    "svgPath": "vectors/230_102.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_102.png"
+  },
+  {
+    "nodeId": "230:103",
+    "nodeName": "Vector",
+    "name": "image_vec_230_103",
+    "svgPath": "vectors/230_103.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_103.png"
+  },
+  {
+    "nodeId": "230:104",
+    "nodeName": "Vector",
+    "name": "image_vec_230_104",
+    "svgPath": "vectors/230_104.svg",
+    "width": 7,
+    "height": 7,
+    "pngPath": "images/vec_230_104.png"
+  },
+  {
+    "nodeId": "230:105",
+    "nodeName": "Vector",
+    "name": "image_vec_230_105",
+    "svgPath": "vectors/230_105.svg",
+    "width": 9,
+    "height": 2,
+    "pngPath": "images/vec_230_105.png"
+  },
+  {
+    "nodeId": "230:106",
+    "nodeName": "Vector",
+    "name": "image_vec_230_106",
+    "svgPath": "vectors/230_106.svg",
+    "width": 9,
+    "height": 2,
+    "pngPath": "images/vec_230_106.png"
+  },
+  {
+    "nodeId": "230:107",
+    "nodeName": "Vector",
+    "name": "image_vec_230_107",
+    "svgPath": "vectors/230_107.svg",
+    "width": 17,
+    "height": 4,
+    "pngPath": "images/vec_230_107.png"
+  },
+  {
+    "nodeId": "230:90",
+    "nodeName": "Vector",
+    "name": "image_vec_230_90",
+    "svgPath": "vectors/230_90.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_90.png"
+  },
+  {
+    "nodeId": "230:91",
+    "nodeName": "Vector",
+    "name": "image_vec_230_91",
+    "svgPath": "vectors/230_91.svg",
+    "width": 59,
+    "height": 59,
+    "pngPath": "images/vec_230_91.png"
+  },
+  {
+    "nodeId": "230:92",
+    "nodeName": "Vector",
+    "name": "image_vec_230_92",
+    "svgPath": "vectors/230_92.svg",
+    "width": 18,
+    "height": 15,
+    "pngPath": "images/vec_230_92.png"
+  },
+  {
+    "nodeId": "230:93",
+    "nodeName": "Vector",
+    "name": "image_vec_230_93",
+    "svgPath": "vectors/230_93.svg",
+    "width": 8,
+    "height": 8,
+    "pngPath": "images/vec_230_93.png"
+  },
+  {
+    "nodeId": "230:94",
+    "nodeName": "Vector",
+    "name": "image_vec_230_94",
+    "svgPath": "vectors/230_94.svg",
+    "width": 6,
+    "height": 6,
+    "pngPath": "images/vec_230_94.png"
+  },
+  {
+    "nodeId": "230:95",
+    "nodeName": "Vector",
+    "name": "image_vec_230_95",
+    "svgPath": "vectors/230_95.svg",
+    "width": 10,
+    "height": 1,
+    "pngPath": "images/vec_230_95.png"
+  },
+  {
+    "nodeId": "230:96",
+    "nodeName": "Vector",
+    "name": "image_vec_230_96",
+    "svgPath": "vectors/230_96.svg",
+    "width": 6,
+    "height": 6,
+    "pngPath": "images/vec_230_96.png"
+  },
+  {
+    "nodeId": "172:272",
+    "nodeName": "Vector",
+    "name": "image_vec_172_272",
+    "svgPath": "vectors/172_272.svg",
+    "width": 48,
+    "height": 43,
+    "pngPath": "images/vec_172_272.png"
+  },
+  {
+    "nodeId": "172:273",
+    "nodeName": "Vector",
+    "name": "image_vec_172_273",
+    "svgPath": "vectors/172_273.svg",
+    "width": 16,
+    "height": 16,
+    "pngPath": "images/vec_172_273.png"
+  },
+  {
+    "nodeId": "183:278",
+    "nodeName": "Vector",
+    "name": "image_vec_183_278",
+    "svgPath": "vectors/183_278.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_278.png"
+  },
+  {
+    "nodeId": "183:279",
+    "nodeName": "Vector",
+    "name": "image_vec_183_279",
+    "svgPath": "vectors/183_279.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_279.png"
+  },
+  {
+    "nodeId": "183:280",
+    "nodeName": "Vector",
+    "name": "image_vec_183_280",
+    "svgPath": "vectors/183_280.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_280.png"
+  },
+  {
+    "nodeId": "183:281",
+    "nodeName": "Vector",
+    "name": "image_vec_183_281",
+    "svgPath": "vectors/183_281.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_281.png"
+  },
+  {
+    "nodeId": "183:282",
+    "nodeName": "Vector",
+    "name": "image_vec_183_282",
+    "svgPath": "vectors/183_282.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_282.png"
+  },
+  {
+    "nodeId": "183:284",
+    "nodeName": "Vector",
+    "name": "image_vec_183_284",
+    "svgPath": "vectors/183_284.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_284.png"
+  },
+  {
+    "nodeId": "183:285",
+    "nodeName": "Vector",
+    "name": "image_vec_183_285",
+    "svgPath": "vectors/183_285.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_285.png"
+  },
+  {
+    "nodeId": "183:286",
+    "nodeName": "Vector",
+    "name": "image_vec_183_286",
+    "svgPath": "vectors/183_286.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_286.png"
+  },
+  {
+    "nodeId": "183:287",
+    "nodeName": "Vector",
+    "name": "image_vec_183_287",
+    "svgPath": "vectors/183_287.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_287.png"
+  },
+  {
+    "nodeId": "183:288",
+    "nodeName": "Vector",
+    "name": "image_vec_183_288",
+    "svgPath": "vectors/183_288.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_288.png"
+  },
+  {
+    "nodeId": "183:290",
+    "nodeName": "Vector",
+    "name": "image_vec_183_290",
+    "svgPath": "vectors/183_290.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_290.png"
+  },
+  {
+    "nodeId": "183:291",
+    "nodeName": "Vector",
+    "name": "image_vec_183_291",
+    "svgPath": "vectors/183_291.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_291.png"
+  },
+  {
+    "nodeId": "183:292",
+    "nodeName": "Vector",
+    "name": "image_vec_183_292",
+    "svgPath": "vectors/183_292.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_292.png"
+  },
+  {
+    "nodeId": "183:293",
+    "nodeName": "Vector",
+    "name": "image_vec_183_293",
+    "svgPath": "vectors/183_293.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_293.png"
+  },
+  {
+    "nodeId": "183:294",
+    "nodeName": "Vector",
+    "name": "image_vec_183_294",
+    "svgPath": "vectors/183_294.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_294.png"
+  },
+  {
+    "nodeId": "173:273",
+    "nodeName": "Vector",
+    "name": "image_vec_173_273",
+    "svgPath": "vectors/173_273.svg",
+    "width": 42,
+    "height": 37,
+    "pngPath": "images/vec_173_273.png"
+  },
+  {
+    "nodeId": "173:274",
+    "nodeName": "Vector",
+    "name": "image_vec_173_274",
+    "svgPath": "vectors/173_274.svg",
+    "width": 14,
+    "height": 14,
+    "pngPath": "images/vec_173_274.png"
+  },
+  {
+    "nodeId": "183:296",
+    "nodeName": "Vector",
+    "name": "image_vec_183_296",
+    "svgPath": "vectors/183_296.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_296.png"
+  },
+  {
+    "nodeId": "183:297",
+    "nodeName": "Vector",
+    "name": "image_vec_183_297",
+    "svgPath": "vectors/183_297.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_297.png"
+  },
+  {
+    "nodeId": "183:298",
+    "nodeName": "Vector",
+    "name": "image_vec_183_298",
+    "svgPath": "vectors/183_298.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_298.png"
+  },
+  {
+    "nodeId": "183:299",
+    "nodeName": "Vector",
+    "name": "image_vec_183_299",
+    "svgPath": "vectors/183_299.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_299.png"
+  },
+  {
+    "nodeId": "183:300",
+    "nodeName": "Vector",
+    "name": "image_vec_183_300",
+    "svgPath": "vectors/183_300.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_300.png"
+  },
+  {
+    "nodeId": "183:302",
+    "nodeName": "Vector",
+    "name": "image_vec_183_302",
+    "svgPath": "vectors/183_302.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_302.png"
+  },
+  {
+    "nodeId": "183:303",
+    "nodeName": "Vector",
+    "name": "image_vec_183_303",
+    "svgPath": "vectors/183_303.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_303.png"
+  },
+  {
+    "nodeId": "183:304",
+    "nodeName": "Vector",
+    "name": "image_vec_183_304",
+    "svgPath": "vectors/183_304.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_304.png"
+  },
+  {
+    "nodeId": "183:305",
+    "nodeName": "Vector",
+    "name": "image_vec_183_305",
+    "svgPath": "vectors/183_305.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_305.png"
+  },
+  {
+    "nodeId": "183:306",
+    "nodeName": "Vector",
+    "name": "image_vec_183_306",
+    "svgPath": "vectors/183_306.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_306.png"
+  },
+  {
+    "nodeId": "183:308",
+    "nodeName": "Vector",
+    "name": "image_vec_183_308",
+    "svgPath": "vectors/183_308.svg",
+    "width": 12,
+    "height": 10,
+    "pngPath": "images/vec_183_308.png"
+  },
+  {
+    "nodeId": "183:309",
+    "nodeName": "Vector",
+    "name": "image_vec_183_309",
+    "svgPath": "vectors/183_309.svg",
+    "width": 39,
+    "height": 39,
+    "pngPath": "images/vec_183_309.png"
+  },
+  {
+    "nodeId": "183:310",
+    "nodeName": "Vector",
+    "name": "image_vec_183_310",
+    "svgPath": "vectors/183_310.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_310.png"
+  },
+  {
+    "nodeId": "183:311",
+    "nodeName": "Vector",
+    "name": "image_vec_183_311",
+    "svgPath": "vectors/183_311.svg",
+    "width": 5,
+    "height": 5,
+    "pngPath": "images/vec_183_311.png"
+  },
+  {
+    "nodeId": "183:312",
+    "nodeName": "Vector",
+    "name": "image_vec_183_312",
+    "svgPath": "vectors/183_312.svg",
+    "width": 11,
+    "height": 3,
+    "pngPath": "images/vec_183_312.png"
+  }
+]

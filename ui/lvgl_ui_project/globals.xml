@@ -1,0 +1,443 @@
+<globals>
+  <api>
+    <!-- Add <enumdefs> here -->
+  </api>
+
+  <consts>
+    <!-- ────────────────── <lvgl-figma-flow begin="consts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+    <color name="const_color_bg_global" value="0xFBF7EC" />
+    <color name="const_color_surface_global" value="0xFFFFFF" />
+    <color name="const_color_fg_global" value="0x14342B" />
+    <color name="const_color_fg_muted_global" value="0x5A6B62" />
+    <color name="const_color_ok_global" value="0x1C7A4A" />
+    <color name="const_color_warn_global" value="0xB45309" />
+    <color name="const_color_error_global" value="0xC2532F" />
+    <color name="const_color_cat0_global" value="0x2455C0" />
+    <color name="const_color_cat1_global" value="0x176640" />
+    <color name="const_color_cat2_global" value="0x9E3F20" />
+    <color name="const_color_cat3_global" value="0x4E5A62" />
+    <string name="const_font_family_cjk_global" value="Noto Sans TC" />
+    <string name="const_font_family_num_global" value="Inter" />
+    <int name="const_font_cat_px_global" value="112" />
+    <int name="const_font_score_px_global" value="80" />
+    <int name="const_font_title_px_global" value="56" />
+    <int name="const_font_body_px_global" value="32" />
+    <int name="const_font_caption_px_global" value="26" />
+    <px name="const_space_xs_global" value="8" />
+    <px name="const_space_sm_global" value="16" />
+    <px name="const_space_md_global" value="24" />
+    <px name="const_space_lg_global" value="40" />
+    <px name="const_space_xl_global" value="64" />
+    <px name="const_radius_card_global" value="16" />
+    <px name="const_radius_pill_global" value="999" />
+    <int name="const_motion_scan_ms_global" value="260" />
+    <int name="const_motion_reveal_ms_global" value="260" />
+    <int name="const_motion_settle_ms_global" value="120" />
+    <color name="const_color_brand_global" value="0x14342B" />
+    <color name="const_color_on_brand_global" value="0xFBF7EC" />
+    <color name="const_color_accent_global" value="0x7FD8B0" />
+    <color name="const_color_on_accent_global" value="0x14342B" />
+    <color name="const_color_camera_bg_global" value="0x14342B" />
+    <color name="const_color_camera_fg_global" value="0xFBF7EC" />
+    <color name="const_color_cat0_soft_global" value="0x5B8DEF" />
+    <color name="const_color_cat1_soft_global" value="0x57B87A" />
+    <color name="const_color_cat2_soft_global" value="0xEF7A5C" />
+    <color name="const_color_cat3_soft_global" value="0x8E9AA3" />
+    <px name="const_space_outer_global" value="24" />
+    <px name="const_space_card_pad_global" value="24" />
+    <px name="const_space_compact_pad_global" value="16" />
+    <px name="const_space_icon_gap_global" value="24" />
+    <px name="const_space_section_gap_global" value="16" />
+    <px name="const_space_text_gap_global" value="8" />
+    <px name="const_space_control_height_global" value="64" />
+    <color name="const_color_accent_celebrate_global" value="0xDCE45A" />
+    <color name="const_color_cat0_tint_global" value="0xE6E8EA" />
+    <color name="const_color_cat1_tint_global" value="0xE5EBDC" />
+    <color name="const_color_cat2_tint_global" value="0xF5E7D9" />
+    <color name="const_color_cat3_tint_global" value="0xEBE9DF" />
+    <color name="const_color_brand_light_global" value="0x2C6B4F" />
+    <color name="const_baselib_accent_global" value="0x70609C" />
+    <int name="const_baselib_unit_sm_global" value="4" />
+
+    <!-- ─────────────────── <lvgl-figma-flow end="consts"/> ──────────────────── -->
+    <!-- Add <px>, <int>, <color> etc here -->
+  </consts>
+
+  <subjects>
+    <!-- Add <int>, <string>, or <float> subjects here -->
+  </subjects>
+
+  <images>
+    <!-- ────────────────── <lvgl-figma-flow begin="images"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+    <data
+      name="image_cat_glyph_19370"
+      src_path="images/cat_glyph_19370.png"
+      color_format="rgb565a8" />
+    <data
+      name="image_cat_glyph_19372"
+      src_path="images/cat_glyph_19372.png"
+      color_format="rgb565a8" />
+    <data
+      name="image_cat_glyph_19374"
+      src_path="images/cat_glyph_19374.png"
+      color_format="rgb565a8" />
+    <data
+      name="image_cat_glyph_19376"
+      src_path="images/cat_glyph_19376.png"
+      color_format="rgb565a8" />
+    <data name="image_icon_flame" src_path="images/icon_flame.png" color_format="rgb565a8" />
+    <data name="image_vec_230_81" src_path="images/vec_230_81.png" color_format="rgb565a8" />
+    <data name="image_vec_230_82" src_path="images/vec_230_82.png" color_format="rgb565a8" />
+    <data name="image_vec_230_83" src_path="images/vec_230_83.png" color_format="rgb565a8" />
+    <data name="image_vec_230_84" src_path="images/vec_230_84.png" color_format="rgb565a8" />
+    <data name="image_vec_230_85" src_path="images/vec_230_85.png" color_format="rgb565a8" />
+    <data name="image_vec_230_86" src_path="images/vec_230_86.png" color_format="rgb565a8" />
+    <data name="image_vec_230_72" src_path="images/vec_230_72.png" color_format="rgb565a8" />
+    <data name="image_vec_230_73" src_path="images/vec_230_73.png" color_format="rgb565a8" />
+    <data name="image_vec_230_74" src_path="images/vec_230_74.png" color_format="rgb565a8" />
+    <data name="image_vec_230_75" src_path="images/vec_230_75.png" color_format="rgb565a8" />
+    <data name="image_vec_230_76" src_path="images/vec_230_76.png" color_format="rgb565a8" />
+    <data name="image_vec_230_77" src_path="images/vec_230_77.png" color_format="rgb565a8" />
+    <data name="image_vec_230_111" src_path="images/vec_230_111.png" color_format="rgb565a8" />
+    <data name="image_vec_230_112" src_path="images/vec_230_112.png" color_format="rgb565a8" />
+    <data name="image_vec_230_113" src_path="images/vec_230_113.png" color_format="rgb565a8" />
+    <data name="image_vec_230_114" src_path="images/vec_230_114.png" color_format="rgb565a8" />
+    <data name="image_vec_230_115" src_path="images/vec_230_115.png" color_format="rgb565a8" />
+    <data name="image_vec_230_116" src_path="images/vec_230_116.png" color_format="rgb565a8" />
+    <data name="image_vec_230_117" src_path="images/vec_230_117.png" color_format="rgb565a8" />
+    <data name="image_vec_230_118" src_path="images/vec_230_118.png" color_format="rgb565a8" />
+    <data name="image_vec_230_122" src_path="images/vec_230_122.png" color_format="rgb565a8" />
+    <data name="image_vec_230_123" src_path="images/vec_230_123.png" color_format="rgb565a8" />
+    <data name="image_vec_230_124" src_path="images/vec_230_124.png" color_format="rgb565a8" />
+    <data name="image_vec_230_125" src_path="images/vec_230_125.png" color_format="rgb565a8" />
+    <data name="image_vec_230_126" src_path="images/vec_230_126.png" color_format="rgb565a8" />
+    <data name="image_vec_230_127" src_path="images/vec_230_127.png" color_format="rgb565a8" />
+    <data name="image_vec_230_128" src_path="images/vec_230_128.png" color_format="rgb565a8" />
+    <data name="image_vec_230_129" src_path="images/vec_230_129.png" color_format="rgb565a8" />
+    <data name="image_vec_230_100" src_path="images/vec_230_100.png" color_format="rgb565a8" />
+    <data name="image_vec_230_101" src_path="images/vec_230_101.png" color_format="rgb565a8" />
+    <data name="image_vec_230_102" src_path="images/vec_230_102.png" color_format="rgb565a8" />
+    <data name="image_vec_230_103" src_path="images/vec_230_103.png" color_format="rgb565a8" />
+    <data name="image_vec_230_104" src_path="images/vec_230_104.png" color_format="rgb565a8" />
+    <data name="image_vec_230_105" src_path="images/vec_230_105.png" color_format="rgb565a8" />
+    <data name="image_vec_230_106" src_path="images/vec_230_106.png" color_format="rgb565a8" />
+    <data name="image_vec_230_107" src_path="images/vec_230_107.png" color_format="rgb565a8" />
+    <data name="image_vec_230_90" src_path="images/vec_230_90.png" color_format="rgb565a8" />
+    <data name="image_vec_230_91" src_path="images/vec_230_91.png" color_format="rgb565a8" />
+    <data name="image_vec_230_92" src_path="images/vec_230_92.png" color_format="rgb565a8" />
+    <data name="image_vec_230_93" src_path="images/vec_230_93.png" color_format="rgb565a8" />
+    <data name="image_vec_230_94" src_path="images/vec_230_94.png" color_format="rgb565a8" />
+    <data name="image_vec_230_95" src_path="images/vec_230_95.png" color_format="rgb565a8" />
+    <data name="image_vec_230_96" src_path="images/vec_230_96.png" color_format="rgb565a8" />
+    <data name="image_vec_172_272" src_path="images/vec_172_272.png" color_format="rgb565a8" />
+    <data name="image_vec_172_273" src_path="images/vec_172_273.png" color_format="rgb565a8" />
+    <data name="image_vec_183_278" src_path="images/vec_183_278.png" color_format="rgb565a8" />
+    <data name="image_vec_183_279" src_path="images/vec_183_279.png" color_format="rgb565a8" />
+    <data name="image_vec_183_280" src_path="images/vec_183_280.png" color_format="rgb565a8" />
+    <data name="image_vec_183_281" src_path="images/vec_183_281.png" color_format="rgb565a8" />
+    <data name="image_vec_183_282" src_path="images/vec_183_282.png" color_format="rgb565a8" />
+    <data name="image_vec_183_284" src_path="images/vec_183_284.png" color_format="rgb565a8" />
+    <data name="image_vec_183_285" src_path="images/vec_183_285.png" color_format="rgb565a8" />
+    <data name="image_vec_183_286" src_path="images/vec_183_286.png" color_format="rgb565a8" />
+    <data name="image_vec_183_287" src_path="images/vec_183_287.png" color_format="rgb565a8" />
+    <data name="image_vec_183_288" src_path="images/vec_183_288.png" color_format="rgb565a8" />
+    <data name="image_vec_183_290" src_path="images/vec_183_290.png" color_format="rgb565a8" />
+    <data name="image_vec_183_291" src_path="images/vec_183_291.png" color_format="rgb565a8" />
+    <data name="image_vec_183_292" src_path="images/vec_183_292.png" color_format="rgb565a8" />
+    <data name="image_vec_183_293" src_path="images/vec_183_293.png" color_format="rgb565a8" />
+    <data name="image_vec_183_294" src_path="images/vec_183_294.png" color_format="rgb565a8" />
+    <data name="image_vec_173_273" src_path="images/vec_173_273.png" color_format="rgb565a8" />
+    <data name="image_vec_173_274" src_path="images/vec_173_274.png" color_format="rgb565a8" />
+    <data name="image_vec_183_296" src_path="images/vec_183_296.png" color_format="rgb565a8" />
+    <data name="image_vec_183_297" src_path="images/vec_183_297.png" color_format="rgb565a8" />
+    <data name="image_vec_183_298" src_path="images/vec_183_298.png" color_format="rgb565a8" />
+    <data name="image_vec_183_299" src_path="images/vec_183_299.png" color_format="rgb565a8" />
+    <data name="image_vec_183_300" src_path="images/vec_183_300.png" color_format="rgb565a8" />
+    <data name="image_vec_183_302" src_path="images/vec_183_302.png" color_format="rgb565a8" />
+    <data name="image_vec_183_303" src_path="images/vec_183_303.png" color_format="rgb565a8" />
+    <data name="image_vec_183_304" src_path="images/vec_183_304.png" color_format="rgb565a8" />
+    <data name="image_vec_183_305" src_path="images/vec_183_305.png" color_format="rgb565a8" />
+    <data name="image_vec_183_306" src_path="images/vec_183_306.png" color_format="rgb565a8" />
+    <data name="image_vec_183_308" src_path="images/vec_183_308.png" color_format="rgb565a8" />
+    <data name="image_vec_183_309" src_path="images/vec_183_309.png" color_format="rgb565a8" />
+    <data name="image_vec_183_310" src_path="images/vec_183_310.png" color_format="rgb565a8" />
+    <data name="image_vec_183_311" src_path="images/vec_183_311.png" color_format="rgb565a8" />
+    <data name="image_vec_183_312" src_path="images/vec_183_312.png" color_format="rgb565a8" />
+
+    <!-- ─────────────────── <lvgl-figma-flow end="images"/> ──────────────────── -->
+    <!-- Add <file> or <data> tags here -->
+  </images>
+
+  <fonts>
+    <!-- ─────────────────── <lvgl-figma-flow begin="fonts"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+    <bin
+      name="font_noto_sans_tc_bold_32"
+      size="32"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_noto_sans_tc_bold_56"
+      size="56"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_inter_bold_80"
+      size="80"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_26"
+      size="26"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_112"
+      size="112"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_inter_bold_32"
+      size="32"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x4E00-0x9FFF" />
+    <bin
+      name="font_noto_sans_tc_bold_64"
+      size="64"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_40"
+      size="40"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_medium_32"
+      size="32"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Medium.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_medium_40"
+      size="40"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Medium.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_inter_bold_40"
+      size="40"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_80"
+      size="80"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_24"
+      size="24"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_30"
+      size="30"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_20"
+      size="20"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_44"
+      size="44"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_inter_bold_28"
+      size="28"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_25"
+      size="25"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_regular_18"
+      size="18"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Regular.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_36"
+      size="36"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_inter_bold_96"
+      size="96"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_bold_48"
+      size="48"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x20-0x7F, 0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_bold_28"
+      size="28"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_inter_bold_88"
+      size="88"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F" />
+    <bin
+      name="font_noto_sans_tc_medium_28"
+      size="28"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Medium.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x3000-0x303F, 0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_medium_36"
+      size="36"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Medium.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x3000-0x303F, 0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_bold_72"
+      size="72"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_inter_bold_36"
+      size="36"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F, 0xA0-0xFF" />
+    <bin
+      name="font_noto_sans_tc_medium_24"
+      size="24"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Medium.ttf"
+      range="0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_bold_66_90908813476562"
+      size="67"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_inter_bold_56"
+      size="56"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/Inter-Bold.ttf"
+      range="0x20-0x7F" />
+    <bin
+      name="font_noto_sans_tc_regular_32"
+      size="32"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Regular.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+    <bin
+      name="font_noto_sans_tc_regular_26"
+      size="26"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Regular.ttf"
+      range="0x20-0x7F, 0x3000-0x303F, 0x4E00-0x9FFF, 0xFF00-0xFFEF" />
+    <bin
+      name="font_noto_sans_tc_bold_31_999998092651367"
+      size="32"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Bold.ttf"
+      range="0x4E00-0x9FFF" />
+    <bin
+      name="font_noto_sans_tc_regular_28"
+      size="28"
+      bpp="4"
+      as_file="false"
+      src_path="fonts/NotoSansTC-Regular.ttf"
+      range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F" />
+
+    <!-- ──────────────────── <lvgl-figma-flow end="fonts"/> ──────────────────── -->
+    <!-- Add <bin> , <tiny_ttf>, <freetype> tags here -->
+  </fonts>
+
+  <styles>
+    <!-- ────────────────── <lvgl-figma-flow begin="styles"/> ───────────────────
+         Regenerated on each export. Add your own entries outside the fence. -->
+
+    <style
+      name="style_screen_base_global"
+      border_width="0"
+      radius="0"
+      shadow_width="0"
+      shadow_opa="0" />
+
+    <!-- ─────────────────── <lvgl-figma-flow end="styles"/> ──────────────────── -->
+    <!-- Add <style> tags here -->
+  </styles>
+</globals>
