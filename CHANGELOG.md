@@ -10,6 +10,11 @@
 
 ### Added
 
+- `.gitattributes`：標記 `firmware/xiaozhi-esp32/**` 為 `linguist-vendored`、`ui/lvgl/generated/**` 為 `linguist-generated`，二進位檔（PDF／zip／ONNX／espdl／字型）標 `binary`，行尾統一 LF。在此之前語言統計把 1,732 個上游檔案算成本專案程式碼。
+- `firmware/xiaozhi-esp32/VENDORED.md`：寫明該目錄是上游 Xiaozhi-ESP32 原樣拷入，附「不要當自家碼改」的四條硬規則與為何不用 submodule。
+- `docs/repo-map.md`：目錄職責表、五類檔案（原始碼／第三方／資料／生成物／交付物）的處理規則、大小門檻（>2 MB 先分類、>10 MB 不進 git）、永不提交清單，以及四項已知債務與其量測數字。
+- `docs/README.md`：導覽表加入 `repo-map.md` 入口。
+
 - `models/wordless-padded/`：158 張卡面（38 印刷 ＋ 120 輔助）、珠光紙 sprite、每張 200 張場景、470 張持牌真實相片與 SHA-256 清單，成為訓練資料唯一來源。
 - `firmware/esp32s3/node/`：S3 節點專案。2026-11 硬件改版後為 GPIO 直出舵機 PWM、4 × TOF050C（VL6180X）用 XSHUT 改址、S31 ↔ 節點走 ESP-NOW。
 - 加入 300 DPI 試印卡（`docs/cards/300dpi`）：Set A／Set B 正面與共用卡背，卡面與 `cards/` 逐張相同。
