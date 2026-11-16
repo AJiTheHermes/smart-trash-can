@@ -8,6 +8,11 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- `tools/check_docs.py` 對 `ui/lvgl_ui_project/` 報 28 個「missing README.md」，令 `main` 的 Documentation CI 一直紅。原因是 LVGL Pro Editor 會自動建立 `components/<widget>/`、`screens/`、`.lvgl-flow/`、`.vscode/` 等目錄，逐個要求 README 只是噪音。改為：hidden 目錄（`.vscode`、`.lvgl-flow`）一律不檢查；`ui/lvgl_ui_project/` 列為 tool-managed tree，文件責任在該目錄的 `README.md` 與 `AGENTS.md`。檢查結果由 **28 errors（exit 1）變成 0 errors（exit 0）**。
+- `ui/lvgl_ui_project/README.md` 原本是 LVGL Pro 的空白範本（寫「nothing in it yet」），與實際內容不符。改寫為真實專案指引：說明這是**最新一版設計、由 Figma 同步、UI 的 source of truth**，列出各子目錄誰維護、不要手改生成的 C、如何驗證。
+
 ### Added
 
 - `.gitattributes`：標記 `firmware/xiaozhi-esp32/**` 為 `linguist-vendored`、`ui/lvgl/generated/**` 為 `linguist-generated`，二進位檔（PDF／zip／ONNX／espdl／字型）標 `binary`，行尾統一 LF。在此之前語言統計把 1,732 個上游檔案算成本專案程式碼。
